@@ -6,7 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Miki.Utils.Imaging.Headers" Version="1.0.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Memory" Version="4.5.3" />
   </ItemGroup>
 
